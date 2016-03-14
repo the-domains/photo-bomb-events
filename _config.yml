@@ -1,0 +1,28 @@
+name: Photo Bomb Events
+favicon: null
+layout_spectrum: 0.7813624422997236
+typography_spectrum: 0.1370784060563892
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5816961622331291
+  lightness: 0.008599113905802369
+  saturation: 0.050331045873463154
+  rhythmicContrast: 0.33483246550895274
+purpose: []
